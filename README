@@ -1,0 +1,23 @@
+2 Player Game summary:
+	Player1 has 0 Inventory.
+	Player2 has 4 Inventory.
+	Game Throughput after 200 rounds: 582 (avg: 2.9) 
+
+3 Player Game summary:
+	Player1 has 0 Inventory.
+	Player2 has 27 Inventory.
+	Player3 has 32 Inventory.
+	Game Throughput after 200 rounds: 549 (avg: 2.7) 
+
+10 Player Game summary:
+	Player1 has 0 Inventory.
+	Player2 has 29 Inventory.
+	Player3 has 13 Inventory.
+	Player4 has 44 Inventory.
+	Player5 has 9 Inventory.
+	Player6 has 1 Inventory.
+	Player7 has 8 Inventory.
+	Player8 has 4 Inventory.
+	Player9 has 7 Inventory.
+	Player10 has 0 Inventory.
+	Game Throughput after 200 rounds: 507 (avg: 2.5) 
