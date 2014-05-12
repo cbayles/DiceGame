@@ -8,7 +8,7 @@ namespace DiceGame
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("How many players are going to play? (press 'q' at any time to stop the game)");
+			Console.WriteLine ("How many players are going to play??????? (press 'q' at any time to stop the game)");
 			var playerCount = Console.ReadLine();
 			var game = new DiceGame(Convert.ToInt32 (playerCount));
 			do
